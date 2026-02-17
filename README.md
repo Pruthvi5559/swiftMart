@@ -1,2 +1,2 @@
 # ZYPP
-a instant grocery and fast fashion delivery app
+Zypp is a instant grocery and fast fashion delivery app
